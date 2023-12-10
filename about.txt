@@ -1,0 +1,6 @@
+This favicon was generated using the following font:
+
+- Font Title: Diphylleia
+- Font Author: Copyright 2022 The Diphylleia Project Authors (https://github.com/JAMO-TYPEFACE/Diphylleia)
+- Font Source: http://fonts.gstatic.com/s/diphylleia/v1/DtVmJxCtRKMixK4_HXsIulwm6gDXvwE.ttf
+- Font License: SIL Open Font License, 1.1 (http://scripts.sil.org/OFL))
